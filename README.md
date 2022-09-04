@@ -1,6 +1,6 @@
 ### Hi there 👋This is S M SHAFI
 
-<!--
+
 **asshafi/asshafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 (https://www.facebook.com/as.shafi.15)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
